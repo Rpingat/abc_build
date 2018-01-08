@@ -35,6 +35,8 @@ PRODUCT_PACKAGES += \
     DocumentsUI \
     DownloadProviderUi \
     ExternalStorageProvider \
+    ExactCalculator \
+    Gallery2 \
     FusedLocation \
     InputDevices \
     KeyChain \
